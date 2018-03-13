@@ -9,7 +9,7 @@
 }
 
 body{
-  background-color: #50424b;
+  background-color: #green;
 }
 
 ul{
@@ -91,10 +91,7 @@ ul li ul li{
 
 }
 
-.info{
-  color: green;
-  font-size: 1000px;
-}
+
 
 .scrum_h1 {
 
